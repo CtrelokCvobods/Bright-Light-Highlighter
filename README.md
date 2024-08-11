@@ -1,7 +1,7 @@
-# [📘] Bright Light [[Highlighter](https://github.com/CtrelokCvobods/Bright-Light-Highlighter/edit/main/README.md#highlighter)] || Яркий свет [[Highlighter](https://github.com/CtrelokCvobods/Bright-Light-Highlighter/edit/main/README.md#highlighter)]
-> **This resource pack will change the texture of the marker of the raised object from the "[Highlighter](https://github.com/CtrelokCvobods/Bright-Light-Highlighter/edit/main/README.md#highlighter)" mod to a more contrasting one.**
+# [📘] Bright Light [[Highlighter](https://github.com/CtrelokCvobods/Bright-Light-Highlighter?tab=readme-ov-file#highlighter)] || Яркий свет [[Highlighter](https://github.com/CtrelokCvobods/Bright-Light-Highlighter?tab=readme-ov-file#highlighter)]
+> **This resource pack will change the texture of the marker of the raised object from the "[Highlighter](https://github.com/CtrelokCvobods/Bright-Light-Highlighter?tab=readme-ov-file#highlighter)" mod to a more contrasting one.**
 
-> **Данный пакет ресурсов изменит текстуру маркера поднятого предмета из мода "[Highlighter](https://github.com/CtrelokCvobods/Bright-Light-Highlighter/edit/main/README.md#highlighter)" на более контрастную.**
+> **Данный пакет ресурсов изменит текстуру маркера поднятого предмета из мода "[Highlighter](https://github.com/CtrelokCvobods/Bright-Light-Highlighter?tab=readme-ov-file#highlighter)" на более контрастную.**
 
 ***1. An example from the mod || Пример из мода:***
 
