@@ -14,12 +14,12 @@
 ***3. Resource Packs 16x || Пакетов ресурсов 16x:***
  
 ![2](https://cdn.modrinth.com/data/cached_images/a9cf4a634d65649baaa770d3ac7b8cf3de907863.png)
-## [📥] Stay tuned for updates || Следите за обновлениями:
+## [📥] Stay tuned for updates || Следите за обновлениями
 ### -> [Modrinth](https://modrinth.com/resourcepack/bright_light-highlighter)
-## [📙] Licensed || Лицензия: 
+## [📙] Licensed || Лицензия
 ### -> [CC-BY-NC-SA-4.0](https://github.com/CtrelokCvobods/Bright-Light-Highlighter/blob/main/LICENSE.md)
 ![CC-BY-NC-SA-4.0](https://github.com/user-attachments/assets/bca75b68-bb3c-4dcc-9f78-a4b7efff09d4)
-## [🔗] Sources || Источники:
+## [🔗] Sources || Источники
 ### Highlighter 
 -> GitHub | https://github.com/AHilyard/Highlighter/
 
