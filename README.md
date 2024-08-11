@@ -2,7 +2,7 @@
 > **This resource pack will change the texture of the marker of the raised object from the "[Highlighter](https://github.com/CtrelokCvobods/Bright-Light-Highlighter?tab=readme-ov-file#highlighter)" mod to a more contrasting one.**
 
 > **Данный пакет ресурсов изменит текстуру маркера поднятого предмета из мода "[Highlighter](https://github.com/CtrelokCvobods/Bright-Light-Highlighter?tab=readme-ov-file#highlighter)" на более контрастную.**
-***
+
 ***1. An example from the mod || Пример из мода:***
 
 ![0](https://cdn.modrinth.com/data/cached_images/371b692ef9f2e8b7e134038bcd562d54d0e41e9c.png)
